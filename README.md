@@ -7,12 +7,13 @@
 ![stability-work_in_progress](images/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](images/internal_use_-stable-green.svg)
 
-# datAcopio
+# transcriptIO
 
 ## RATIONALE / [RAZONES](LEEME.md)
 
-* This repository it just for the sake of migrate our data between different servers and platforms
-* Collect data between persons, format, standardize and go to production following deadlines and criteria previously engaged
+* Web-app for internal use: transcribe interviews made on fieldwork using the [Google Speech Recognition technology](https://www.google.com/intl/en/chrome/demos/speech.html)
+* Just for the sake of transcribe fieldwork interviews
+* We do not collect any data during transcribing sessions: all the data is in the `local storage` of Google Chrome
      
 ### Who do I talk to? ###
 
