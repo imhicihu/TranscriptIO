@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.png?raw=true" alt="Logotipo de transcriptIO"/>
+  <img src="images/LjwTgd4cSAumdXh8EaXXbg.webp?raw=true" alt="Logotipo de transcriptIO"/>
 </p>
 
 ---
