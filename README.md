@@ -33,6 +33,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](images/MIT-license-green.png)
-
-
+* The content of this project itself is licensed under the ![MIT Licence](images/MIT_License.png)
