@@ -1,2 +1,2 @@
 #### Palettes
-![](Screenshot.png)
+![](images/Screenshot.png)
