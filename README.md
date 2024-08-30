@@ -13,7 +13,11 @@
 
 * Web-app for internal use: transcribe interviews made on fieldwork using the [Google Speech Recognition technology](https://www.google.com/intl/en/chrome/demos/speech.html)
 * Just for the sake of transcribe fieldwork interviews
-* We do not collect any data during transcribing sessions: all the data is in the `local storage` of Google Chrome
+* We do not collect any digital data during transcribing sessions: all generated data is in your [local storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) of your Google Chrome session
+
+### System requirements:
+
+* [Google Chrome](https://www.google.com/chrome/) updated
      
 ### Who do I talk to? ###
 
