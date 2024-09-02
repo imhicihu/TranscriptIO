@@ -14,6 +14,7 @@
 * [Web-app](https://hablante.surge.sh/) para uso interno: transcribir entrevistas realizadas en trabajos de campo utilizando la [tecnología de reconocimiento de voz de Google](https://www.google.com/intl/en/chrome/demos/speech.html)
 * Tiene un exclusivo propósito: transcribir las entrevistas de los trabajos de campo
 * No recogemos ningún tipo de dato digital durante la o las sesiones de transcripción: todos los datos están en el [almacenamiento local](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) de su Google Chrome
+* Adicionalmente, existe una [aplicación](https://bitbucket.org/imhicihu/transcriptio/downloads/) que lleva a cabo la misma función (por ahora, sólo para el entorno macOSX)
      
 ### ¿Con quién hablo? ###
 
