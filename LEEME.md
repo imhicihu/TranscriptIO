@@ -19,7 +19,7 @@
 ### ¿Con quién hablo? ###
 
 * Propietario o administrador del repositorio
-    - Póngase en contacto con `imhicihu` arroba `gmail` punto `com
+    - Póngase en contacto con `imhicihu` arroba `gmail` punto `com`
 
 ### Requisitos del sistema:
 
