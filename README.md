@@ -9,7 +9,7 @@
 
 # transcriptIO
 
-## RATIONALE / [RAZONES](LEEME.md)
+## Rationale / [Motivación](LEEME.md)
 
 * [Web-app](https://hablante.surge.sh/) for internal use: transcribe interviews made on fieldwork using the [Google Speech Recognition technology](https://www.google.com/intl/en/chrome/demos/speech.html)
 * Just for the sake of transcribe fieldwork interviews
