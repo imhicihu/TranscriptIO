@@ -29,7 +29,7 @@
 
 ### Código de conducta
 
-* Por favor, consulte nuestro [Código de Conducta](code_of_conduct.md)
+* Por favor, consulte nuestro [Código de Conducta](codigo_de_conducta.md)
 
 ### Legal ###
 
