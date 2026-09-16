@@ -7,7 +7,7 @@
 ![stability-work_in_progress](images/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](images/internal_use_-stable-green.svg)
 
-# transcriptIO
+## transcriptIO
 
 ## Rationale / [Motivación](LEEME.md)
 
