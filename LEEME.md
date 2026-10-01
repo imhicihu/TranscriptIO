@@ -13,7 +13,16 @@
 
 * [Web-app](https://hablante.surge.sh/) para uso interno y único propósito: transcribir entrevistas realizadas en trabajos de campo utilizando la [tecnología de reconocimiento de voz de Google](https://www.google.com/intl/en/chrome/demos/speech.html)
 * No recogemos ningún tipo de dato digital durante la o las sesiones de transcripción: todos los datos están en el [almacenamiento local](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) de su Google Chrome
-     
+
+```mermaid
+flowchart TD
+    A[Grabación entrevista] -->|Normalizar audio| B(Transcripción)
+    B --> C{Texto reconocido}
+    C -->|1| D[archivo generado]
+    C -->|2| E[verificación y corrección]
+    C -->|3| F[guardar archivo]
+```
+
 ### ¿Con quién hablo? ###
 
 * Propietario o administrador del repositorio
