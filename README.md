@@ -15,6 +15,15 @@
 * Just for the sake of transcribe fieldwork interviews
 * We do not collect any digital data during transcribing sessions: all generated data is in your [local storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) of your Google Chrome session
 
+```mermaid
+flowchart TD
+    A[Interview Recording] -->|normalize audio| B(Transcript)
+    B --> C{Recognized text}
+    C -->|1| D[generated file]
+    C -->|2| E[verification and correction]
+    C -->|3| F[save file]
+```
+
 ### System requirements:
 
 * [Google Chrome](https://www.google.com/chrome/) updated
